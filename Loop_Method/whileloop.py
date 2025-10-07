@@ -18,3 +18,4 @@ while a>=1:
    print(a, "Hello Shailesh")
    a=a-1
 
+   print(a)
